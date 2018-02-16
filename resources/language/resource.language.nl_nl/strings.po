@@ -1,0 +1,758 @@
+# XBMC Media Center language file
+# Addon Name: ExtendedInfo Script
+# Addon id: script.extendedinfo
+# Addon version: 1.0.0
+# Addon Provider: phil65
+msgid ""
+msgstr ""
+"Project-Id-Version: script.extendedinfo\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2014-10-26 17:05+0000\n"
+"PO-Revision-Date: 2017-11-19 09:42+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "Addon Summary"
+msgid "ExtendedInfo Script"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "This script offers various possibilities to display online content inside skins. Used services are themoviedb.org, theaudiodb.org, Trakt.TV and a lot more. Can also be used for importing / exporting skin settings, adding additional fanart stuff to library and cooking eggs. Needs skin support for most functions."
+msgstr "Dit script biedt verscheidene mogelijkheden om online inhoud weer te geven in skins. Gebruikte diensten zijn themoviedb.org, theaudiodb.org, Trakt.TV en nog veel meer. Het kan ook gebruikt worden voor im / exporteren van skin instellingen, toevoegen van extra afbeeldingen aan de bibliotheek en eieren koken. Vereist skin-ondersteuning voor de meest functies."
+
+msgctxt "#32000"
+msgid "Million"
+msgstr "Miljoen"
+
+msgctxt "#32001"
+msgid "Billion"
+msgstr "Miljard"
+
+msgctxt "#32002"
+msgid "Trillion"
+msgstr "Biljoen"
+
+msgctxt "#32003"
+msgid "Autocompletion language"
+msgstr "Automatisch aanvullen taal"
+
+msgctxt "#32004"
+msgid "Autocompletion provider"
+msgstr "Automatisch aanvullen leverancier"
+
+msgctxt "#32005"
+msgid "Windowed mode (for low-power platforms)"
+msgstr ""
+
+msgctxt "#32006"
+msgid "Use as thumbnail"
+msgstr "Gebruik als miniatuur"
+
+msgctxt "#32007"
+msgid "Use as fanart"
+msgstr "Gebruik als achtergrond"
+
+msgctxt "#32008"
+msgid "Autocompletion"
+msgstr "Automatisch aanvullen"
+
+#: \resources\lib\DialogTVShowInfo.py:101
+msgctxt "#32009"
+msgid "Show person information"
+msgstr "Toon persoon informatie"
+
+msgctxt "#32010"
+msgid "Filmography"
+msgstr "Filmografie"
+
+msgctxt "#32011"
+msgid "Known movies"
+msgstr "Bekende films"
+
+msgctxt "#32012"
+msgid "Birthday"
+msgstr "Geboortedag"
+
+msgctxt "#32013"
+msgid "Day of death"
+msgstr "Sterfdag"
+
+msgctxt "#32014"
+msgid "Place of birth"
+msgstr "Geboorteplaats"
+
+msgctxt "#32015"
+msgid "Adult actor"
+msgstr ""
+
+msgctxt "#32016"
+msgid "Also known as"
+msgstr "Ook bekend onder"
+
+msgctxt "#32017"
+msgid "Homepage"
+msgstr "Startpagina"
+
+msgctxt "#32018"
+msgid "Role"
+msgstr "Rol"
+
+msgctxt "#32019"
+msgid "Job"
+msgstr "Taak"
+
+#: \resources\skins\Default\1080i\script-script.extendedinfo-DialogInfo.xml:118
+msgctxt "#32020"
+msgid "Age"
+msgstr "Leeftijd"
+
+msgctxt "#32021"
+msgid "In database"
+msgstr "In databank"
+
+msgctxt "#32022"
+msgid "Clear filters"
+msgstr "Verwijder filters"
+
+msgctxt "#32023"
+msgid "Filters"
+msgstr "Filters"
+
+msgctxt "#32024"
+msgid "My account"
+msgstr "Mijn acount"
+
+msgctxt "#32025"
+msgid "Episode index"
+msgstr "Aflevering index"
+
+msgctxt "#32026"
+msgid "Related movie lists"
+msgstr "Gerelateerde film lijsten"
+
+msgctxt "#32027"
+msgid "Select person"
+msgstr "Selecteer persoon"
+
+#: /plugin.py:56
+msgctxt "#32028"
+msgid "Airing episodes"
+msgstr "Momenteel uitgezonden afleveringen"
+
+#: /plugin.py:57
+msgctxt "#32029"
+msgid "Season premiere episodes"
+msgstr "Seizoen première afleveringen"
+
+msgctxt "#32030"
+msgid "Movie appearances"
+msgstr "Filmoptredens"
+
+msgctxt "#32031"
+msgid "TV show appearances"
+msgstr "TV-optredens"
+
+#: /plugin.py:58
+msgctxt "#32032"
+msgid "Trending TV shows"
+msgstr "Trendende TV series"
+
+msgctxt "#32033"
+msgid "Enter person name"
+msgstr "Voer naam van persoon in"
+
+msgctxt "#32034"
+msgid "Person results for %s"
+msgstr "Persoon resultaten voor %s"
+
+msgctxt "#32035"
+msgid "Remove from list"
+msgstr "Verwijder van lijst"
+
+msgctxt "#32036"
+msgid "Movie list"
+msgstr "Film lijst"
+
+msgctxt "#32037"
+msgid "Overview"
+msgstr "Overzicht"
+
+#: /plugin.py:59
+msgctxt "#32038"
+msgid "TV shows airing today"
+msgstr "TV series die vandaag uitgezonden worden"
+
+#: /plugin.py:60
+msgctxt "#32039"
+msgid "On-the-air TV shows"
+msgstr "Momenteel lopende TV series"
+
+#: /plugin.py:61
+msgctxt "#32040"
+msgid "Top rated TV shows"
+msgstr "Meest gewaardeerde TV series"
+
+#: /plugin.py:62 /plugin.py:137
+msgctxt "#32041"
+msgid "Popular TV shows"
+msgstr "Populaire TV series"
+
+#: /plugin.py:36 /plugin.py:45
+msgctxt "#32042"
+msgid "In-cinema movies"
+msgstr "Momenteel draaiende films"
+
+#: /plugin.py:46 /plugin.py:39
+msgctxt "#32043"
+msgid "Upcoming movies"
+msgstr "Aankomende films"
+
+#: /plugin.py:48 /plugin.py:128
+msgctxt "#32044"
+msgid "Popular movies"
+msgstr "Populaire films"
+
+#: /plugin.py:49
+msgctxt "#32045"
+msgid "User-created lists"
+msgstr "Door gebruiker gecreëerde lijsten"
+
+#: /plugin.py:47
+msgctxt "#32046"
+msgid "Top rated movies"
+msgstr "Meest gewaardeerde films"
+
+#: /plugin.py:51
+msgctxt "#32047"
+msgid "Trending movies"
+msgstr "Trendende films"
+
+#: /plugin.py:38
+msgctxt "#32048"
+msgid "Opening movies"
+msgstr "Première films"
+
+#: /plugin.py:41
+msgctxt "#32049"
+msgid "Current DVD releases"
+msgstr "Huidige DVD uitgaves"
+
+msgctxt "#32050"
+msgid "Online information"
+msgstr "Online informatie"
+
+msgctxt "#32051"
+msgid "Trailer"
+msgstr "Trailer"
+
+msgctxt "#32052"
+msgid "No trailers found"
+msgstr "Geen trailers gevonden"
+
+#: /plugin.py:42
+msgctxt "#32053"
+msgid "New DVD releases"
+msgstr "Nieuwe DVD uitgaves"
+
+#: /plugin.py:43
+msgctxt "#32054"
+msgid "Upcoming DVDs"
+msgstr "Aankomende DVD's"
+
+#: /plugin.py:37 /plugin.py:133
+msgctxt "#32055"
+msgid "Box office"
+msgstr "Kassa"
+
+#: /plugin.py:40
+msgctxt "#32056"
+msgid "Top rentals"
+msgstr "Meest verhuurd"
+
+#: /resources/lib/dialogs/DialogYoutubeList.py:128
+msgctxt "#32057"
+msgid "Dimensions"
+msgstr "Dimensies"
+
+#: C:/Kodi/portable_data/addons/script.extendedinfo/resources/lib/dialogs/DialogYoutubeList.py:40
+msgctxt "#32058"
+msgid "Related"
+msgstr "Gerelateerd"
+
+#: \resources\lib\DialogVideoInfo.py:297
+msgctxt "#32059"
+msgid "Added movie to CouchPotato"
+msgstr "Voeg film toe aan CouchPotato"
+
+#: \resources\lib\DialogYoutubeList.py:35 \resources\lib\DialogYoutubeList.py:124
+msgctxt "#32060"
+msgid "Relevance"
+msgstr "Relevantie"
+
+#: \resources\skins\Default\1080i\script-script.extendedinfo-YoutubeList.xml:113
+msgctxt "#32061"
+msgid "views"
+msgstr "layouts"
+
+#: \resources\lib\DialogYoutubeList.py:131
+msgctxt "#32062"
+msgid "One day"
+msgstr "Een dag"
+
+#: \resources\lib\DialogYoutubeList.py:131
+msgctxt "#32063"
+msgid "One week"
+msgstr "Een week"
+
+#: \resources\lib\DialogYoutubeList.py:131
+msgctxt "#32064"
+msgid "One month"
+msgstr "Een maand"
+
+#: \resources\lib\DialogYoutubeList.py:131
+msgctxt "#32065"
+msgid "One year"
+msgstr "Een jaar"
+
+#: \resources\skins\Default\1080i\script-script.extendedinfo-YoutubeList.xml:518
+msgctxt "#32066"
+msgid "2D / 3D"
+msgstr "2D / 3D"
+
+#: \resources\lib\DialogYoutubeList.py:59
+msgctxt "#32067"
+msgid "Amount of days"
+msgstr "Aantal dagen"
+
+#: \resources\lib\DialogYoutubeList.py:24
+msgctxt "#32068"
+msgid "Amount of videos"
+msgstr "Aantal video's"
+
+#: \resources\lib\DialogYoutubeList.py:191
+msgctxt "#32069"
+msgid "Show similar videos"
+msgstr "Toon soortgelijke video's"
+
+#: /resources/lib/dialogs/DialogBaseInfo.py:149
+msgctxt "#32070"
+msgid "Show filmography"
+msgstr "Toon filmografie"
+
+#: \resources\lib\TheMovieDB.py:870
+msgctxt "#32071"
+msgid "Released"
+msgstr "Uitgegeven"
+
+#: \resources\lib\TheMovieDB.py:871
+msgctxt "#32072"
+msgid "Post production"
+msgstr "Na-productie"
+
+#: \resources\lib\TheMovieDB.py:872
+msgctxt "#32073"
+msgid "In production"
+msgstr "In de maak"
+
+#: \resources\lib\TheMovieDB.py:873
+msgctxt "#32074"
+msgid "Ended"
+msgstr "Beëindigd"
+
+#: \resources\lib\TheMovieDB.py:874
+msgctxt "#32075"
+msgid "Returning series"
+msgstr "Terugkerende series"
+
+#: \resources\lib\TheMovieDB.py:875
+msgctxt "#32076"
+msgid "Planned"
+msgstr "Gepland"
+
+#: \resources\lib\dialogs\DialogBaseList.py:73
+msgctxt "#32077"
+msgid "Remove filter"
+msgstr "Verwijder filter"
+
+#: \resources\lib\dialogs\DialogBaseList.py:74
+msgctxt "#32078"
+msgid "Remove all"
+msgstr "Verwijder alle"
+
+#: \resources\settings.xml:11
+msgctxt "#32080"
+msgid "Force native appearance"
+msgstr "Forceer inheems uiterlijk"
+
+#: \resources\lib\dialogs\DialogYoutubeList.py:211
+msgctxt "#32081"
+msgid "More videos from"
+msgstr "Meer video's van"
+
+#: /resources/skins/Default/1080i/script-script.extendedinfo-DialogVideoInfo.xml:2925 /resources/lib/dialogs/DialogVideoList.py
+msgctxt "#32082"
+msgid "votes"
+msgstr "stemmen"
+
+#: /resources/lib/TheMovieDB.py:266
+msgctxt "#32083"
+msgid "Add movie to list"
+msgstr "Voeg film aan lijst toe"
+
+#: /resources/settings.xml:7
+msgctxt "#32084"
+msgid "Use classic keyboard for search"
+msgstr "Gebruik klassiek toetsenbord voor zoeken"
+
+#: /plugin.py:138
+msgctxt "#32085"
+msgid "Anticipated TV shows"
+msgstr "Geanticipeerde TV series"
+
+#: /plugin.py:139
+msgctxt "#32086"
+msgid "Most played TV shows"
+msgstr "Meest afgespeelde TV series"
+
+#: /plugin.py:140
+msgctxt "#32087"
+msgid "Most collected TV shows"
+msgstr "Meest verzamelde TV series"
+
+#: /plugin.py:141
+msgctxt "#32088"
+msgid "Most watched TV shows"
+msgstr "Meest bekeken TV series"
+
+#: /plugin.py:129
+msgctxt "#32089"
+msgid "Most played movies"
+msgstr "Meest afgespeelde films"
+
+#: /plugin.py:130
+msgctxt "#32090"
+msgid "Most watched movies"
+msgstr "Meest bekeken films"
+
+#: /plugin.py:131
+msgctxt "#32091"
+msgid "Most collected movies"
+msgstr "Meest verzamelde films"
+
+#: /plugin.py:132
+msgctxt "#32092"
+msgid "Anticipated movies"
+msgstr "Geanticipeerde films"
+
+#: /plugin.py:128
+msgctxt "#32093"
+msgid "Rated episodes"
+msgstr "Beoordeelde afleveringen"
+
+#: /resources/lib/TheMovieDB.py:55
+msgctxt "#32094"
+msgid "Male"
+msgstr "Mannelijk"
+
+#: /resources/lib/TheMovieDB.py:54
+msgctxt "#32095"
+msgid "Female"
+msgstr "Vrouwelijk"
+
+msgctxt "#32099"
+msgid "Include porn stars"
+msgstr "Pornosterren incluis"
+
+msgctxt "#32100"
+msgid "Get extrafanart"
+msgstr "Verkrijg extra achtergronden"
+
+msgctxt "#32101"
+msgid "Get extrathumbs"
+msgstr "Verkrijg extra miniaturen"
+
+msgctxt "#32102"
+msgid "Get tune"
+msgstr "Verkrijg deuntje"
+
+msgctxt "#32103"
+msgid "Change info labels"
+msgstr "Verander informatie labels"
+
+msgctxt "#32104"
+msgid "Sort by"
+msgstr "Sorteer op"
+
+msgctxt "#32105"
+msgid "Filters"
+msgstr "Filters"
+
+msgctxt "#32106"
+msgid "Choose filter behaviour"
+msgstr "Kies filter gedrag"
+
+msgctxt "#32107"
+msgid "Add to list"
+msgstr "Voeg toe aan lijst"
+
+msgctxt "#32108"
+msgid "Revenue"
+msgstr "Omzet"
+
+msgctxt "#32109"
+msgid "Budget"
+msgstr "Budget"
+
+#: \resources\lib\DialogVideoList.py:155
+msgctxt "#32110"
+msgid "Popularity"
+msgstr "Populariteit"
+
+#: \resources\lib\DialogVideoList.py:288
+msgctxt "#32111"
+msgid "Vote count"
+msgstr "Aantal stemmen"
+
+msgctxt "#32112"
+msgid "Vote average"
+msgstr "Stem gemiddelde"
+
+#: /resources/lib/dialogs/DialogBaseInfo.py:120
+msgctxt "#32113"
+msgid "Rate movie"
+msgstr "Beoordeel film"
+
+msgctxt "#32114"
+msgid "Keyword"
+msgstr "Sleutelwoord"
+
+msgctxt "#32115"
+msgid "Crew"
+msgstr "Filmploeg"
+
+msgctxt "#32116"
+msgid "Recommended By TMDB"
+msgstr "Aangeraden door TMDB"
+
+msgctxt "#32117"
+msgid "Official videos"
+msgstr "Officiële video's"
+
+#: \resources\lib\DialogYoutubeList.py:13
+msgctxt "#32118"
+msgid "YouTube videos"
+msgstr "YouTube video's"
+
+msgctxt "#32119"
+msgid "Artwork"
+msgstr "Afbeeldingen"
+
+msgctxt "#32120"
+msgid "Movie actor roles"
+msgstr "Filmacteursrollen"
+
+msgctxt "#32121"
+msgid "TV show roles"
+msgstr "TV-showrollen"
+
+msgctxt "#32122"
+msgid "Movie crew member"
+msgstr "Lid van de filmploeg"
+
+msgctxt "#32123"
+msgid "TV show crew member"
+msgstr "Lid van de TV-filmploeg"
+
+msgctxt "#32124"
+msgid "Items"
+msgstr "Items"
+
+msgctxt "#32125"
+msgid "Page"
+msgstr "Pagina"
+
+msgctxt "#32126"
+msgid "Actor / Crew member"
+msgstr "Acteur / Lid van filmploeg"
+
+msgctxt "#32127"
+msgid "Certification"
+msgstr "Certificering"
+
+msgctxt "#32128"
+msgid "Order"
+msgstr "Sorteer"
+
+msgctxt "#32129"
+msgid "Your rating"
+msgstr "Jouw beoordeling"
+
+msgctxt "#32130"
+msgid "Show lists"
+msgstr "Toon lijsten"
+
+msgctxt "#32131"
+msgid "Already rated"
+msgstr "Al beoordeeld"
+
+msgctxt "#32132"
+msgid "Extras"
+msgstr "Extras"
+
+msgctxt "#32133"
+msgid "Manage"
+msgstr "Beheren"
+
+msgctxt "#32134"
+msgid "Starred movies"
+msgstr "Gemarkeerde films"
+
+msgctxt "#32135"
+msgid "Rated movies"
+msgstr "Beoordeelde films"
+
+msgctxt "#32136"
+msgid "Choose list"
+msgstr "Kies lijst"
+
+msgctxt "#32137"
+msgid "Enter list name"
+msgstr "Voer lijst naam in"
+
+msgctxt "#32138"
+msgid "Delete movie list"
+msgstr "Verwijder film lijst"
+
+msgctxt "#32139"
+msgid "New movie list"
+msgstr "Nieuwe film lijst"
+
+msgctxt "#32140"
+msgid "For all features enter your TMDB credentials in addon settings. "
+msgstr "Om alle mogelijkheden te benutten dient u uw TMDB gegevens in te vullen in de addon instellingen."
+
+msgctxt "#32141"
+msgid "This product uses the TMDb API but is not endorsed or certified by TMDb."
+msgstr "Dit product maakt gebruik van de TMDb API maar wordt niet goedgekeurd of gecertificeerd door TMDb."
+
+msgctxt "#32142"
+msgid "Studios"
+msgstr "Studio's"
+
+msgctxt "#32143"
+msgid "Could not find item at MovieDB"
+msgstr "Kan het item niet vinden op MovieDB"
+
+msgctxt "#32144"
+msgid "Starred TV shows"
+msgstr "Gemarkeerde TV series"
+
+msgctxt "#32145"
+msgid "Rated TV shows"
+msgstr "Beoordeelde TV series"
+
+msgctxt "#32146"
+msgid "Search for '%s'"
+msgstr "Zoeken naar '%s'"
+
+msgctxt "#32147"
+msgid "Show appearances"
+msgstr "Toon optredens"
+
+msgctxt "#32148"
+msgid "Show information"
+msgstr "Toon informatie"
+
+msgctxt "#32149"
+msgid "Upper limit"
+msgstr "Bovengrens"
+
+msgctxt "#32150"
+msgid "Lower limit"
+msgstr "Ondergrens"
+
+#: /resources/lib/Utils.py:224
+msgctxt "#32151"
+msgid "Choose option"
+msgstr "Kies optie"
+
+msgctxt "#32152"
+msgid "Networks"
+msgstr "Netwerken"
+
+msgctxt "#32153"
+msgid "Certification country"
+msgstr "Certificatieland "
+
+msgctxt "#32154"
+msgid "Star"
+msgstr "Markeer"
+
+msgctxt "#32155"
+msgid "UnStar"
+msgstr "DeMarkeer"
+
+msgctxt "#32156"
+msgid "Person"
+msgstr "Persoon"
+
+msgctxt "#32157"
+msgid "Created at"
+msgstr "Gecreëerd op"
+
+msgctxt "#32158"
+msgid "Birthday today!"
+msgstr "Vandaag jarig!"
+
+msgctxt "#32159"
+msgid "Language for TheMovieDB requests"
+msgstr "Taal voor TheMovieDB verzoeken"
+
+msgctxt "#32160"
+msgid "TheMovieDB username"
+msgstr "TheMovieDB gebruikersnaam"
+
+msgctxt "#32161"
+msgid "TheMovieDB password"
+msgstr "TheMovieDB wachtwoord"
+
+msgctxt "#32162"
+msgid "Include adult actors / movies"
+msgstr "Inclusief acteurs / films voor volwassenen"
+
+msgctxt "#32163"
+msgid "Open InfoDialog by default"
+msgstr "Open standaard een InfoDialoog"
+
+msgctxt "#32164"
+msgid "Delete cache"
+msgstr "Verwijder cache"
+
+msgctxt "#32165"
+msgid "Add to CouchPotato"
+msgstr "Voeg toe aan CouchPotato"
+
+msgctxt "#32166"
+msgid "Add to SickBeard"
+msgstr "Voeg toe aan SickBeard"
+
+msgctxt "#32167"
+msgid "Reviews"
+msgstr "Beoordelingen"
+
+msgctxt "#32168"
+msgid "Releases"
+msgstr "Uitgaves"
+
+msgctxt "#32169"
+msgid "Rate TV show"
+msgstr "Beoordeel TV serie"
+
+msgctxt "#32170"
+msgid "Add to Trakt Watchlist"
+msgstr "Voeg toe aan Trakt Kijklijst"
