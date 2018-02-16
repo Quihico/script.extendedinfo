@@ -756,3 +756,11 @@ msgstr "Noter la Série TV"
 msgctxt "#32170"
 msgid "Add to Trakt Watchlist"
 msgstr "Ajouter à Trakt Watchlist"
+
+msgctxt "#32171"
+msgid "Trakt username"
+msgstr "Nom d’utilisateur Trakt"
+
+msgctxt "#32172"
+msgid "Trakt password"
+msgstr "Mot de passe Trakt"

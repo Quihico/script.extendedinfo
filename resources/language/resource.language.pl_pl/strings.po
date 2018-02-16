@@ -718,11 +718,11 @@ msgstr "Wyszukuj w języku"
 
 msgctxt "#32160"
 msgid "TheMovieDB username"
-msgstr "Użytkownik"
+msgstr "TheMovieDB użytkownik"
 
 msgctxt "#32161"
 msgid "TheMovieDB password"
-msgstr "Hasło"
+msgstr "TheMovieDB hasło"
 
 msgctxt "#32162"
 msgid "Include adult actors / movies"
@@ -759,3 +759,11 @@ msgstr "Oceń serial"
 msgctxt "#32170"
 msgid "Add to Trakt Watchlist"
 msgstr "Dodaj do listy Trakt"
+
+msgctxt "#32171"
+msgid "Trakt username"
+msgstr "Trakt użytkownik"
+
+msgctxt "#32172"
+msgid "Trakt password"
+msgstr "Trakt hasło"

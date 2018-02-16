@@ -756,3 +756,11 @@ msgstr "Valuta Serie TV"
 msgctxt "#32170"
 msgid "Add to Trakt Watchlist"
 msgstr "Aggiungi alla Trakt Watchlist"
+
+msgctxt "#32171"
+msgid "Trakt username"
+msgstr "Trakt username"
+
+msgctxt "#32172"
+msgid "Trakt password"
+msgstr "Trakt password"

@@ -5,18 +5,17 @@
 # Addon Provider: phil65
 msgid ""
 msgstr ""
-"Project-Id-Version: Kodi-Addons\n"
+"Project-Id-Version: script.extendedinfo\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2014-10-26 17:05+0000\n"
-"PO-Revision-Date: 2017-05-01 10:02+0200\n"
-"Language-Team: Czech\n"
+"PO-Revision-Date: 2017-11-19 09:42+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cs_CZ\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.0.1\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
 msgid "ExtendedInfo Script"
@@ -24,48 +23,48 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "This script offers various possibilities to display online content inside skins. Used services are themoviedb.org, theaudiodb.org, Trakt.TV and a lot more. Can also be used for importing / exporting skin settings, adding additional fanart stuff to library and cooking eggs. Needs skin support for most functions."
-msgstr "Tento skript nabízí různé možnosti pro zobrazení online obsahu uvnitř vzhledů. Použité služby jsou themoviedb.org, theaudiodb.org, Trakt.TV a mnoho dalších. Lze ho také použít k importu nebo exportu nastavení vzhledu, přidávání dalších věcí pro fanart do knihovny a vaření vajec. Pro většinu funkcí vyžaduje podporu vzhledu."
+msgstr "Dit script biedt verscheidene mogelijkheden om online inhoud weer te geven in skins. Gebruikte diensten zijn themoviedb.org, theaudiodb.org, Trakt.TV en nog veel meer. Het kan ook gebruikt worden voor im / exporteren van skin instellingen, toevoegen van extra afbeeldingen aan de bibliotheek en eieren koken. Vereist skin-ondersteuning voor de meest functies."
 
 msgctxt "#32000"
 msgid "Million"
-msgstr "Milion"
+msgstr "Miljoen"
 
 msgctxt "#32001"
 msgid "Billion"
-msgstr "Bilion"
+msgstr "Miljard"
 
 msgctxt "#32002"
 msgid "Trillion"
-msgstr "Trilion"
+msgstr "Biljoen"
 
 msgctxt "#32003"
 msgid "Autocompletion language"
-msgstr "Jazyk automatického dokončování"
+msgstr "Automatisch aanvullen taal"
 
 msgctxt "#32004"
 msgid "Autocompletion provider"
-msgstr "Poskytovatel automatického dokončování"
+msgstr "Automatisch aanvullen leverancier"
 
 msgctxt "#32005"
 msgid "Windowed mode (for low-power platforms)"
-msgstr "Režim v okně (pro platformy s nízkým výkonem)"
+msgstr ""
 
 msgctxt "#32006"
 msgid "Use as thumbnail"
-msgstr ""
+msgstr "Gebruik als miniatuur"
 
 msgctxt "#32007"
 msgid "Use as fanart"
-msgstr ""
+msgstr "Gebruik als achtergrond"
 
 msgctxt "#32008"
 msgid "Autocompletion"
-msgstr "Automatické dokončování"
+msgstr "Automatisch aanvullen"
 
 #: \resources\lib\DialogTVShowInfo.py:101
 msgctxt "#32009"
 msgid "Show person information"
-msgstr "Zobrazit informace o osobě"
+msgstr "Toon persoon informatie"
 
 msgctxt "#32010"
 msgid "Filmography"
@@ -73,253 +72,252 @@ msgstr "Filmografie"
 
 msgctxt "#32011"
 msgid "Known movies"
-msgstr "Známé filmy"
+msgstr "Bekende films"
 
 msgctxt "#32012"
 msgid "Birthday"
-msgstr "Datum narození"
+msgstr "Geboortedag"
 
 msgctxt "#32013"
 msgid "Day of death"
-msgstr "Datum úmrtí"
+msgstr "Sterfdag"
 
 msgctxt "#32014"
 msgid "Place of birth"
-msgstr "Místo narození"
+msgstr "Geboorteplaats"
 
 msgctxt "#32015"
 msgid "Adult actor"
-msgstr "Pornoherec"
+msgstr ""
 
 msgctxt "#32016"
 msgid "Also known as"
-msgstr "Také známý jako"
+msgstr "Ook bekend onder"
 
 msgctxt "#32017"
 msgid "Homepage"
-msgstr "Domovská stránka"
+msgstr "Startpagina"
 
 msgctxt "#32018"
 msgid "Role"
-msgstr "Role"
+msgstr "Rol"
 
 msgctxt "#32019"
 msgid "Job"
-msgstr "Úloha"
+msgstr "Taak"
 
 #: \resources\skins\Default\1080i\script-script.extendedinfo-DialogInfo.xml:118
 msgctxt "#32020"
 msgid "Age"
-msgstr "Věk"
+msgstr "Leeftijd"
 
 msgctxt "#32021"
 msgid "In database"
-msgstr "V databázi"
+msgstr "In databank"
 
 msgctxt "#32022"
 msgid "Clear filters"
-msgstr "Vymazat filtry"
+msgstr "Verwijder filters"
 
 msgctxt "#32023"
 msgid "Filters"
-msgstr "Filtry"
+msgstr "Filters"
 
 msgctxt "#32024"
 msgid "My account"
-msgstr "Můj účet"
+msgstr "Mijn acount"
 
 msgctxt "#32025"
 msgid "Episode index"
-msgstr ""
+msgstr "Aflevering index"
 
 msgctxt "#32026"
 msgid "Related movie lists"
-msgstr "Seznamy souvisejících filmů"
+msgstr "Gerelateerde film lijsten"
 
 msgctxt "#32027"
 msgid "Select person"
-msgstr "Vyberte osobu"
+msgstr "Selecteer persoon"
 
 #: /plugin.py:56
 msgctxt "#32028"
 msgid "Airing episodes"
-msgstr ""
+msgstr "Momenteel uitgezonden afleveringen"
 
 #: /plugin.py:57
 msgctxt "#32029"
 msgid "Season premiere episodes"
-msgstr ""
+msgstr "Seizoen première afleveringen"
 
 msgctxt "#32030"
 msgid "Movie appearances"
-msgstr "Hostující herec ve filmech"
+msgstr "Filmoptredens"
 
 msgctxt "#32031"
 msgid "TV show appearances"
-msgstr "Hostující herec v seriálu"
+msgstr "TV-optredens"
 
 #: /plugin.py:58
 msgctxt "#32032"
 msgid "Trending TV shows"
-msgstr ""
+msgstr "Trendende TV series"
 
 msgctxt "#32033"
 msgid "Enter person name"
-msgstr "Zadejte jméno osoby"
+msgstr "Voer naam van persoon in"
 
 msgctxt "#32034"
 msgid "Person results for %s"
-msgstr ""
+msgstr "Persoon resultaten voor %s"
 
 msgctxt "#32035"
 msgid "Remove from list"
-msgstr "Odebrat ze seznamu"
+msgstr "Verwijder van lijst"
 
 msgctxt "#32036"
 msgid "Movie list"
-msgstr "Seznam filmů"
+msgstr "Film lijst"
 
 msgctxt "#32037"
 msgid "Overview"
-msgstr "Přehled"
+msgstr "Overzicht"
 
 #: /plugin.py:59
 msgctxt "#32038"
 msgid "TV shows airing today"
-msgstr ""
+msgstr "TV series die vandaag uitgezonden worden"
 
 #: /plugin.py:60
 msgctxt "#32039"
 msgid "On-the-air TV shows"
-msgstr ""
+msgstr "Momenteel lopende TV series"
 
 #: /plugin.py:61
 msgctxt "#32040"
 msgid "Top rated TV shows"
-msgstr "Nejlépe hodnocené seriály"
+msgstr "Meest gewaardeerde TV series"
 
 #: /plugin.py:62 /plugin.py:137
 msgctxt "#32041"
 msgid "Popular TV shows"
-msgstr ""
+msgstr "Populaire TV series"
 
 #: /plugin.py:36 /plugin.py:45
 msgctxt "#32042"
 msgid "In-cinema movies"
-msgstr ""
+msgstr "Momenteel draaiende films"
 
 #: /plugin.py:46 /plugin.py:39
 msgctxt "#32043"
 msgid "Upcoming movies"
-msgstr ""
+msgstr "Aankomende films"
 
 #: /plugin.py:48 /plugin.py:128
 msgctxt "#32044"
 msgid "Popular movies"
-msgstr ""
+msgstr "Populaire films"
 
 #: /plugin.py:49
 msgctxt "#32045"
 msgid "User-created lists"
-msgstr ""
+msgstr "Door gebruiker gecreëerde lijsten"
 
 #: /plugin.py:47
 msgctxt "#32046"
 msgid "Top rated movies"
-msgstr "Nejlépe hodnocené filmy"
+msgstr "Meest gewaardeerde films"
 
 #: /plugin.py:51
 msgctxt "#32047"
 msgid "Trending movies"
-msgstr ""
+msgstr "Trendende films"
 
 #: /plugin.py:38
 msgctxt "#32048"
 msgid "Opening movies"
-msgstr ""
+msgstr "Première films"
 
 #: /plugin.py:41
 msgctxt "#32049"
 msgid "Current DVD releases"
-msgstr ""
+msgstr "Huidige DVD uitgaves"
 
 msgctxt "#32050"
 msgid "Online information"
-msgstr ""
+msgstr "Online informatie"
 
 msgctxt "#32051"
 msgid "Trailer"
-msgstr "Upoutávka"
+msgstr "Trailer"
 
 msgctxt "#32052"
 msgid "No trailers found"
-msgstr "Nenalezeny žádné upoutávky"
+msgstr "Geen trailers gevonden"
 
 #: /plugin.py:42
 msgctxt "#32053"
 msgid "New DVD releases"
-msgstr ""
+msgstr "Nieuwe DVD uitgaves"
 
 #: /plugin.py:43
 msgctxt "#32054"
 msgid "Upcoming DVDs"
-msgstr ""
+msgstr "Aankomende DVD's"
 
 #: /plugin.py:37 /plugin.py:133
 msgctxt "#32055"
 msgid "Box office"
-msgstr ""
+msgstr "Kassa"
 
 #: /plugin.py:40
 msgctxt "#32056"
 msgid "Top rentals"
-msgstr ""
+msgstr "Meest verhuurd"
 
 #: /resources/lib/dialogs/DialogYoutubeList.py:128
 msgctxt "#32057"
 msgid "Dimensions"
-msgstr "Rozměry"
+msgstr "Dimensies"
 
 #: C:/Kodi/portable_data/addons/script.extendedinfo/resources/lib/dialogs/DialogYoutubeList.py:40
 msgctxt "#32058"
 msgid "Related"
-msgstr "Související"
+msgstr "Gerelateerd"
 
 #: \resources\lib\DialogVideoInfo.py:297
 msgctxt "#32059"
 msgid "Added movie to CouchPotato"
-msgstr "Film přidán do CouchPotato"
+msgstr "Voeg film toe aan CouchPotato"
 
-#: \resources\lib\DialogYoutubeList.py:35
-#: \resources\lib\DialogYoutubeList.py:124
+#: \resources\lib\DialogYoutubeList.py:35 \resources\lib\DialogYoutubeList.py:124
 msgctxt "#32060"
 msgid "Relevance"
-msgstr ""
+msgstr "Relevantie"
 
 #: \resources\skins\Default\1080i\script-script.extendedinfo-YoutubeList.xml:113
 msgctxt "#32061"
 msgid "views"
-msgstr "zobrazení"
+msgstr "layouts"
 
 #: \resources\lib\DialogYoutubeList.py:131
 msgctxt "#32062"
 msgid "One day"
-msgstr "Jeden den"
+msgstr "Een dag"
 
 #: \resources\lib\DialogYoutubeList.py:131
 msgctxt "#32063"
 msgid "One week"
-msgstr "Jeden týden"
+msgstr "Een week"
 
 #: \resources\lib\DialogYoutubeList.py:131
 msgctxt "#32064"
 msgid "One month"
-msgstr "Jeden měsíc"
+msgstr "Een maand"
 
 #: \resources\lib\DialogYoutubeList.py:131
 msgctxt "#32065"
 msgid "One year"
-msgstr "Jeden rok"
+msgstr "Een jaar"
 
 #: \resources\skins\Default\1080i\script-script.extendedinfo-YoutubeList.xml:518
 msgctxt "#32066"
@@ -329,441 +327,440 @@ msgstr "2D / 3D"
 #: \resources\lib\DialogYoutubeList.py:59
 msgctxt "#32067"
 msgid "Amount of days"
-msgstr ""
+msgstr "Aantal dagen"
 
 #: \resources\lib\DialogYoutubeList.py:24
 msgctxt "#32068"
 msgid "Amount of videos"
-msgstr ""
+msgstr "Aantal video's"
 
 #: \resources\lib\DialogYoutubeList.py:191
 msgctxt "#32069"
 msgid "Show similar videos"
-msgstr "Zobrazit podobná videa"
+msgstr "Toon soortgelijke video's"
 
 #: /resources/lib/dialogs/DialogBaseInfo.py:149
 msgctxt "#32070"
 msgid "Show filmography"
-msgstr "Zobrazit filmografii"
+msgstr "Toon filmografie"
 
 #: \resources\lib\TheMovieDB.py:870
 msgctxt "#32071"
 msgid "Released"
-msgstr "Vydáno"
+msgstr "Uitgegeven"
 
 #: \resources\lib\TheMovieDB.py:871
 msgctxt "#32072"
 msgid "Post production"
-msgstr ""
+msgstr "Na-productie"
 
 #: \resources\lib\TheMovieDB.py:872
 msgctxt "#32073"
 msgid "In production"
-msgstr ""
+msgstr "In de maak"
 
 #: \resources\lib\TheMovieDB.py:873
 msgctxt "#32074"
 msgid "Ended"
-msgstr ""
+msgstr "Beëindigd"
 
 #: \resources\lib\TheMovieDB.py:874
 msgctxt "#32075"
 msgid "Returning series"
-msgstr ""
+msgstr "Terugkerende series"
 
 #: \resources\lib\TheMovieDB.py:875
 msgctxt "#32076"
 msgid "Planned"
-msgstr ""
+msgstr "Gepland"
 
 #: \resources\lib\dialogs\DialogBaseList.py:73
 msgctxt "#32077"
 msgid "Remove filter"
-msgstr "Odebrat filtr"
+msgstr "Verwijder filter"
 
 #: \resources\lib\dialogs\DialogBaseList.py:74
 msgctxt "#32078"
 msgid "Remove all"
-msgstr "Odebrat vše"
+msgstr "Verwijder alle"
 
 #: \resources\settings.xml:11
 msgctxt "#32080"
 msgid "Force native appearance"
-msgstr "Vynutit nativní vzhled"
+msgstr "Forceer inheems uiterlijk"
 
 #: \resources\lib\dialogs\DialogYoutubeList.py:211
 msgctxt "#32081"
 msgid "More videos from"
-msgstr ""
+msgstr "Meer video's van"
 
-#: /resources/skins/Default/1080i/script-script.extendedinfo-DialogVideoInfo.xml:2925
-#: /resources/lib/dialogs/DialogVideoList.py
+#: /resources/skins/Default/1080i/script-script.extendedinfo-DialogVideoInfo.xml:2925 /resources/lib/dialogs/DialogVideoList.py
 msgctxt "#32082"
 msgid "votes"
-msgstr "hlasů"
+msgstr "stemmen"
 
 #: /resources/lib/TheMovieDB.py:266
 msgctxt "#32083"
 msgid "Add movie to list"
-msgstr "Přidat film na seznam"
+msgstr "Voeg film aan lijst toe"
 
 #: /resources/settings.xml:7
 msgctxt "#32084"
 msgid "Use classic keyboard for search"
-msgstr "Pro hledání používat klasickou klávesnici"
+msgstr "Gebruik klassiek toetsenbord voor zoeken"
 
 #: /plugin.py:138
 msgctxt "#32085"
 msgid "Anticipated TV shows"
-msgstr ""
+msgstr "Geanticipeerde TV series"
 
 #: /plugin.py:139
 msgctxt "#32086"
 msgid "Most played TV shows"
-msgstr ""
+msgstr "Meest afgespeelde TV series"
 
 #: /plugin.py:140
 msgctxt "#32087"
 msgid "Most collected TV shows"
-msgstr ""
+msgstr "Meest verzamelde TV series"
 
 #: /plugin.py:141
 msgctxt "#32088"
 msgid "Most watched TV shows"
-msgstr ""
+msgstr "Meest bekeken TV series"
 
 #: /plugin.py:129
 msgctxt "#32089"
 msgid "Most played movies"
-msgstr ""
+msgstr "Meest afgespeelde films"
 
 #: /plugin.py:130
 msgctxt "#32090"
 msgid "Most watched movies"
-msgstr ""
+msgstr "Meest bekeken films"
 
 #: /plugin.py:131
 msgctxt "#32091"
 msgid "Most collected movies"
-msgstr ""
+msgstr "Meest verzamelde films"
 
 #: /plugin.py:132
 msgctxt "#32092"
 msgid "Anticipated movies"
-msgstr ""
+msgstr "Geanticipeerde films"
 
 #: /plugin.py:128
 msgctxt "#32093"
 msgid "Rated episodes"
-msgstr "Hodnocené epizody"
+msgstr "Beoordeelde afleveringen"
 
 #: /resources/lib/TheMovieDB.py:55
 msgctxt "#32094"
 msgid "Male"
-msgstr "Muž"
+msgstr "Mannelijk"
 
 #: /resources/lib/TheMovieDB.py:54
 msgctxt "#32095"
 msgid "Female"
-msgstr "Žena"
+msgstr "Vrouwelijk"
 
 msgctxt "#32099"
 msgid "Include porn stars"
-msgstr "Zahrnout pornohvězdy"
+msgstr "Pornosterren incluis"
 
 msgctxt "#32100"
 msgid "Get extrafanart"
-msgstr "Získat další fanarty"
+msgstr "Verkrijg extra achtergronden"
 
 msgctxt "#32101"
 msgid "Get extrathumbs"
-msgstr "Získat další náhledy"
+msgstr "Verkrijg extra miniaturen"
 
 msgctxt "#32102"
 msgid "Get tune"
-msgstr ""
+msgstr "Verkrijg deuntje"
 
 msgctxt "#32103"
 msgid "Change info labels"
-msgstr ""
+msgstr "Verander informatie labels"
 
 msgctxt "#32104"
 msgid "Sort by"
-msgstr "Seřadit podle"
+msgstr "Sorteer op"
 
 msgctxt "#32105"
 msgid "Filters"
-msgstr "Filtry"
+msgstr "Filters"
 
 msgctxt "#32106"
 msgid "Choose filter behaviour"
-msgstr ""
+msgstr "Kies filter gedrag"
 
 msgctxt "#32107"
 msgid "Add to list"
-msgstr "Přidat na seznam"
+msgstr "Voeg toe aan lijst"
 
 msgctxt "#32108"
 msgid "Revenue"
-msgstr "Výnos"
+msgstr "Omzet"
 
 msgctxt "#32109"
 msgid "Budget"
-msgstr "Rozpočet"
+msgstr "Budget"
 
 #: \resources\lib\DialogVideoList.py:155
 msgctxt "#32110"
 msgid "Popularity"
-msgstr ""
+msgstr "Populariteit"
 
 #: \resources\lib\DialogVideoList.py:288
 msgctxt "#32111"
 msgid "Vote count"
-msgstr "Počet hlasů"
+msgstr "Aantal stemmen"
 
 msgctxt "#32112"
 msgid "Vote average"
-msgstr "Průměrné hodnocení"
+msgstr "Stem gemiddelde"
 
 #: /resources/lib/dialogs/DialogBaseInfo.py:120
 msgctxt "#32113"
 msgid "Rate movie"
-msgstr "Hodnotit film"
+msgstr "Beoordeel film"
 
 msgctxt "#32114"
 msgid "Keyword"
-msgstr "Klíčové slovo"
+msgstr "Sleutelwoord"
 
 msgctxt "#32115"
 msgid "Crew"
-msgstr "Štáb"
+msgstr "Filmploeg"
 
 msgctxt "#32116"
 msgid "Recommended By TMDB"
-msgstr "TMDB doporučuje"
+msgstr "Aangeraden door TMDB"
 
 msgctxt "#32117"
 msgid "Official videos"
-msgstr "Oficiální videa"
+msgstr "Officiële video's"
 
 #: \resources\lib\DialogYoutubeList.py:13
 msgctxt "#32118"
 msgid "YouTube videos"
-msgstr "Videa YouTube"
+msgstr "YouTube video's"
 
 msgctxt "#32119"
 msgid "Artwork"
-msgstr "Obrázky"
+msgstr "Afbeeldingen"
 
 msgctxt "#32120"
 msgid "Movie actor roles"
-msgstr "Role ve filmech"
+msgstr "Filmacteursrollen"
 
 msgctxt "#32121"
 msgid "TV show roles"
-msgstr "Role v seriálech"
+msgstr "TV-showrollen"
 
 msgctxt "#32122"
 msgid "Movie crew member"
-msgstr "Člen štábu ve filmu"
+msgstr "Lid van de filmploeg"
 
 msgctxt "#32123"
 msgid "TV show crew member"
-msgstr "Člen štábu v seriálu"
+msgstr "Lid van de TV-filmploeg"
 
 msgctxt "#32124"
 msgid "Items"
-msgstr ""
+msgstr "Items"
 
 msgctxt "#32125"
 msgid "Page"
-msgstr "Stránka"
+msgstr "Pagina"
 
 msgctxt "#32126"
 msgid "Actor / Crew member"
-msgstr "Herec / Člen štábu"
+msgstr "Acteur / Lid van filmploeg"
 
 msgctxt "#32127"
 msgid "Certification"
-msgstr ""
+msgstr "Certificering"
 
 msgctxt "#32128"
 msgid "Order"
-msgstr ""
+msgstr "Sorteer"
 
 msgctxt "#32129"
 msgid "Your rating"
-msgstr "Vaše hodnocení"
+msgstr "Jouw beoordeling"
 
 msgctxt "#32130"
 msgid "Show lists"
-msgstr "Zobrazit seznamy"
+msgstr "Toon lijsten"
 
 msgctxt "#32131"
 msgid "Already rated"
-msgstr "Již hodnoceno"
+msgstr "Al beoordeeld"
 
 msgctxt "#32132"
 msgid "Extras"
-msgstr ""
+msgstr "Extras"
 
 msgctxt "#32133"
 msgid "Manage"
-msgstr "Spravovat"
+msgstr "Beheren"
 
 msgctxt "#32134"
 msgid "Starred movies"
-msgstr "Sdílené filmy"
+msgstr "Gemarkeerde films"
 
 msgctxt "#32135"
 msgid "Rated movies"
-msgstr "Hodnocené filmy"
+msgstr "Beoordeelde films"
 
 msgctxt "#32136"
 msgid "Choose list"
-msgstr "Zvolte seznam"
+msgstr "Kies lijst"
 
 msgctxt "#32137"
 msgid "Enter list name"
-msgstr "Zadejte název seznamu"
+msgstr "Voer lijst naam in"
 
 msgctxt "#32138"
 msgid "Delete movie list"
-msgstr "Odstranit seznam filmů"
+msgstr "Verwijder film lijst"
 
 msgctxt "#32139"
 msgid "New movie list"
-msgstr "Nový seznam filmů"
+msgstr "Nieuwe film lijst"
 
 msgctxt "#32140"
 msgid "For all features enter your TMDB credentials in addon settings. "
-msgstr ""
+msgstr "Om alle mogelijkheden te benutten dient u uw TMDB gegevens in te vullen in de addon instellingen."
 
 msgctxt "#32141"
 msgid "This product uses the TMDb API but is not endorsed or certified by TMDb."
-msgstr ""
+msgstr "Dit product maakt gebruik van de TMDb API maar wordt niet goedgekeurd of gecertificeerd door TMDb."
 
 msgctxt "#32142"
 msgid "Studios"
-msgstr "Studia"
+msgstr "Studio's"
 
 msgctxt "#32143"
 msgid "Could not find item at MovieDB"
-msgstr "Nelze najít položku na MovieDB"
+msgstr "Kan het item niet vinden op MovieDB"
 
 msgctxt "#32144"
 msgid "Starred TV shows"
-msgstr "Sdílené seriály"
+msgstr "Gemarkeerde TV series"
 
 msgctxt "#32145"
 msgid "Rated TV shows"
-msgstr "Hodnocené seriály"
+msgstr "Beoordeelde TV series"
 
 msgctxt "#32146"
 msgid "Search for '%s'"
-msgstr "Hledat ‚%s‘"
+msgstr "Zoeken naar '%s'"
 
 msgctxt "#32147"
 msgid "Show appearances"
-msgstr "Zobrazit hostující herce"
+msgstr "Toon optredens"
 
 msgctxt "#32148"
 msgid "Show information"
-msgstr "Zobrazit informace"
+msgstr "Toon informatie"
 
 msgctxt "#32149"
 msgid "Upper limit"
-msgstr ""
+msgstr "Bovengrens"
 
 msgctxt "#32150"
 msgid "Lower limit"
-msgstr ""
+msgstr "Ondergrens"
 
 #: /resources/lib/Utils.py:224
 msgctxt "#32151"
 msgid "Choose option"
-msgstr "Zvolte možnost"
+msgstr "Kies optie"
 
 msgctxt "#32152"
 msgid "Networks"
-msgstr ""
+msgstr "Netwerken"
 
 msgctxt "#32153"
 msgid "Certification country"
-msgstr ""
+msgstr "Certificatieland "
 
 msgctxt "#32154"
 msgid "Star"
-msgstr "Hvězdy"
+msgstr "Markeer"
 
 msgctxt "#32155"
 msgid "UnStar"
-msgstr ""
+msgstr "DeMarkeer"
 
 msgctxt "#32156"
 msgid "Person"
-msgstr "Osoba"
+msgstr "Persoon"
 
 msgctxt "#32157"
 msgid "Created at"
-msgstr "Vytvořeno"
+msgstr "Gecreëerd op"
 
 msgctxt "#32158"
 msgid "Birthday today!"
-msgstr "Dnes má narozeniny!"
+msgstr "Vandaag jarig!"
 
 msgctxt "#32159"
 msgid "Language for TheMovieDB requests"
-msgstr "Jazyk pro požadavky TheMovieDB"
+msgstr "Taal voor TheMovieDB verzoeken"
 
 msgctxt "#32160"
 msgid "TheMovieDB username"
-msgstr "Uživatelské jméno TheMovieDB"
+msgstr "TheMovieDB gebruikersnaam"
 
 msgctxt "#32161"
 msgid "TheMovieDB password"
-msgstr "Heslo TheMovieDB"
+msgstr "TheMovieDB wachtwoord"
 
 msgctxt "#32162"
 msgid "Include adult actors / movies"
-msgstr "Zahrnout herce a filmy pro dospělé"
+msgstr "Inclusief acteurs / films voor volwassenen"
 
 msgctxt "#32163"
 msgid "Open InfoDialog by default"
-msgstr "Ve výchozím nastavení otvírat InfoDialog"
+msgstr "Open standaard een InfoDialoog"
 
 msgctxt "#32164"
 msgid "Delete cache"
-msgstr "Odstranit mezipaměť"
+msgstr "Verwijder cache"
 
 msgctxt "#32165"
 msgid "Add to CouchPotato"
-msgstr "Přidat do CouchPotato"
+msgstr "Voeg toe aan CouchPotato"
 
 msgctxt "#32166"
 msgid "Add to SickBeard"
-msgstr "Přidat do SickBeard"
+msgstr "Voeg toe aan SickBeard"
 
 msgctxt "#32167"
 msgid "Reviews"
-msgstr ""
+msgstr "Beoordelingen"
 
 msgctxt "#32168"
 msgid "Releases"
-msgstr "Vydání"
+msgstr "Uitgaves"
 
 msgctxt "#32169"
 msgid "Rate TV show"
-msgstr "Hodnotit seriál"
+msgstr "Beoordeel TV serie"
 
 msgctxt "#32170"
 msgid "Add to Trakt Watchlist"
-msgstr "Přidat do seznamu sledování Trakt"
+msgstr "Voeg toe aan Trakt Kijklijst"
 
 msgctxt "#32171"
 msgid "Trakt username"
-msgstr "Uživatelské jméno Trakt"
+msgstr "Trakt gebruikersnaam"
 
 msgctxt "#32172"
 msgid "Trakt password"
-msgstr "Heslo Trakt"
+msgstr "Trakt wachtwoord"

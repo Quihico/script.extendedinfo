@@ -756,3 +756,11 @@ msgstr ""
 msgctxt "#32170"
 msgid "Add to Trakt Watchlist"
 msgstr ""
+
+msgctxt "#32171"
+msgid "Trakt movies collection"
+msgstr ""
+
+msgctxt "#32172"
+msgid "Trakt TVShows collection"
+msgstr ""
