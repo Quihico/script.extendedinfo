@@ -716,13 +716,13 @@ msgctxt "#32159"
 msgid "Language for TheMovieDB requests"
 msgstr "Wyszukuj w języku"
 
-msgctxt "#32160"
-msgid "TheMovieDB username"
-msgstr "Użytkownik"
-
-msgctxt "#32161"
-msgid "TheMovieDB password"
-msgstr "Hasło"
+ msgctxt "#32160"
+ msgid "TheMovieDB username"
+ msgstr "TheMovieDB użytkownik"
+ 
+ msgctxt "#32161"
+ msgid "TheMovieDB password"
+ msgstr "TheMovieDB hasło"
 
 msgctxt "#32162"
 msgid "Include adult actors / movies"
