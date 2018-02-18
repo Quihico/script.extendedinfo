@@ -555,6 +555,7 @@ def multi_search(search_str, page=1, cache_days=1):
     if response and "results" in response:
         itemlist = handle_multi_search(response["results"])
         itemlist.set_totals(response["total_results"])
+        itemlist.set_total_pages(response["total_pages"])
         return itemlist
 
 
